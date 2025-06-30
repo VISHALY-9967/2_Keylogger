@@ -37,27 +37,23 @@ A keylogger is a monitoring tool that records every keystroke made on a keyboard
 
   <div class="section">
     <h2>🚀 How to Run</h2>
-    <ol>
-      <li>Clone or download the project:</li>
-      <pre><code>git clone https://github.com/your-username/keylogger-gui.git
-cd keylogger-gui</code></pre>
 
-      <li>Run the script:</li>
+      Run the script:
       <pre><code>python keylogger_gui.py</code></pre>
-    </ol>
+    
   </div>
 
   <div class="section">
     <h2>🖼️ GUI Preview (Text Representation)</h2>
     <pre>
  --------------------------------------
-| 🔐 Keylogger GUI                     |
+| 🔐 Keylogger GUI                    |
 |--------------------------------------|
-| ▶️ Start       ⏹️ Stop               |
+| ▶️ Start       ⏹️ Stop              |
 | [*] Ready to start keylogger.        |
 | a                                    |
 | b                                    |
-| Key.space (released)                |
+| Key.space (released)                 |
 | ...                                  |
 | [ Exit ]                             |
  --------------------------------------
