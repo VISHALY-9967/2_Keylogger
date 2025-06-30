@@ -5,58 +5,7 @@ A keylogger is a monitoring tool that records every keystroke made on a keyboard
 <head>
   <meta charset="UTF-8">
   <title>🛡️ Python Keylogger GUI</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f8f9fa;
-      color: #333;
-      line-height: 1.6;
-      padding: 40px;
-      max-width: 900px;
-      margin: auto;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    pre {
-      background: #272822;
-      color: #f8f8f2;
-      padding: 15px;
-      border-radius: 8px;
-      overflow-x: auto;
-    }
-    code {
-      background: #eee;
-      padding: 2px 5px;
-      border-radius: 4px;
-    }
-    .tagline {
-      font-size: 1.1em;
-      color: #555;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 10px;
-    }
-    table, th, td {
-      border: 1px solid #ccc;
-      padding: 8px;
-      text-align: left;
-    }
-    th {
-      background: #f0f0f0;
-    }
-    .note {
-      background: #fff3cd;
-      padding: 10px;
-      border-left: 5px solid #ffecb5;
-      margin-top: 15px;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-  </style>
+
 </head>
 <body>
 
