@@ -4,7 +4,6 @@ A keylogger is a monitoring tool that records every keystroke made on a keyboard
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>🛡️ Python Keylogger GUI</title>
 
 </head>
 <body>
