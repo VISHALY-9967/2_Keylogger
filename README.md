@@ -39,7 +39,7 @@ A keylogger is a monitoring tool that records every keystroke made on a keyboard
     <h2>🚀 How to Run</h2>
 
       Run the script:
-      <pre><code>python keylogger_gui.py</code></pre>
+      python keylogger.py
     
   </div>
 
